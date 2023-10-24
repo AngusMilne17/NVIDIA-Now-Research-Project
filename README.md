@@ -1,5 +1,3 @@
-# NVIDIA-Now-Research-Project
-
 # Project Update
 So far, I have focused on getting some firsthand experience with the NVIDIA Now product by playing select games streamed from the cloud and then comparing them with a local copy of the same game. 
 On top of that, I have read through multiple technical blogs that NVIDIA has posted. Many of these were to do with how they are compressing video. A couple of areas that have caught my eye are NVIDIAs 
