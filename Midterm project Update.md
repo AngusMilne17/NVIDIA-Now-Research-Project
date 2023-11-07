@@ -52,6 +52,7 @@ The area I have started to research is the Reflex sdk used by NVIDIA for latency
 
 ![image](https://github.com/AngusMilne17/NVIDIA-Now-Research-Project/assets/78343375/7ce2859b-5ea6-4391-853f-cd7a2b1b77d3)
 
+In the project, how NVIDIA Reflex works and why it has the effects it does will be explained as well as some data to illustrate the difference like the image above.
 
 (*) VP9 is most recent video compression algorithm prior to AV1 and is still used a lot today. Many sources compare AV1 to it.
 
