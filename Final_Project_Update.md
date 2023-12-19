@@ -12,6 +12,8 @@ I am very happy with the report. Researching all the different aspects of the pl
 
 I  was concerned about the level of personal experience that I incorporated into the report as I only had access to the free tier, but I supplemented this with second hand accounts of others using the ultimate and the priority tiers and used their feedback instead.
 
+In any case, I hope you enjoy reading the report.
+
 # Sources
 
 1. https://www.tomshardware.com/news/rtx-4090-16-pin-connector-melted-after-one-year-of-usage
