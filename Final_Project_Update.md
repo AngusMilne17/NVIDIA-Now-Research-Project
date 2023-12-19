@@ -8,7 +8,7 @@ For any deep learning enthusiasts, I would especially look into DLSS 3 and 3.5, 
 
 # My Thoughts on the Report
 
-I am very happy with the report. Researching all the different aspects of the platform was interesting and I found that I had too much detail to compress into the page limit in the final report. However, this could be due to my scope being a little too broad which perhaps resulted in some confusion regarding how each component functions. Regardless, I am certain that all the segments of the report are important and lend a great deal to the success of the platform. 
+I am very happy with the report. Researching all the different aspects of the platform was interesting and I found that I had too much detail to compress into the page limit in the final report. However, this could be due to my scope being a little too broad which perhaps has resulted in some confusion regarding how each component actually functions. Regardless, I am certain that all the segments of the report are important and lend a great deal to the success of the platform. 
 
 I  was concerned about the level of personal experience that I incorporated into the report as I only had access to the free tier, but I supplemented this with second hand accounts of others using the ultimate and the priority tiers and used their feedback instead.
 
